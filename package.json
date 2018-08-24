@@ -1,0 +1,17 @@
+{
+  "name": "csvtowebarc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Drew Murr",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^2.0.8",
+    "fs": "0.0.1-security",
+    "request": "^2.88.0"
+  }
+}

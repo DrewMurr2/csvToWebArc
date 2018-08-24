@@ -1,0 +1,16 @@
+{
+    "webarcUrl": "https://webarc.legalmonkeys.com/v1/sms",
+    "csvPath": "./messages.csv",
+    "headers": {
+        "accept": "*/*",
+        "cache-control": "max-age=259200",
+        "content-length": "403",
+        "content-type": "application/x-www-form-urlencoded",
+        "cookie": "$Version=1; ARRAffinity=fe55d1264b4e4291b146d5a2d591e740f34873a224efbdd7508e4a39eb3fc245; $Path=\"/\"; $Domain=legalmonkeys.azurewebsites.net",
+        "host": "8dccfc89.ngrok.io",
+        "x-twilio-signature": "W9p8NjoBuxhDr0OKsYHcdleEwj4=",
+        "user-agent": "TwilioProxy/1.1",
+        "connection": "close",
+        "x-forwarded-for": "52.91.221.252"
+    }
+}
